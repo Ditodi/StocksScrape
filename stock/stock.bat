@@ -1,0 +1,1 @@
+start "" "C:\Users\Tody\AppData\Local\Programs\Python\Python38-32\python.exe" "C:\Users\Tody\Downloads\stock\gsheets.py"
